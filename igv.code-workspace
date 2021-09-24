@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../igv-on-aws-poc"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
